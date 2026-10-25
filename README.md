@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! 👋 Seja bem-vindo(a) ao meu perfil!
 
-<!--
-**gabrielle-software/gabrielle-software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software, com interesse em desenvolvimento de software e tecnologia.
 
-Here are some ideas to get you started:
+💻 Tenho desenvolvido projetos práticos para aprimorar meus conhecimentos em programação, lógica computacional e organização de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e ferramentas
+
+* Python
+* Git e GitHub
+* JSON
+* Manipulação de arquivos com pathlib
+
+### 📌 Projetos
+
+* **Gerenciador de Tarefas em Python:** aplicação para cadastrar, listar, concluir e excluir tarefas, com persistência de dados em JSON.
+
+🔗 [Confira meus projetos no GitHub](https://github.com/gabrielle-software)
+
+### 🎯 Objetivo profissional
+
+Continuar desenvolvendo minhas habilidades técnicas, adquirir experiência prática e contribuir para projetos de desenvolvimento de software.
+
+---
+
+*Em constante aprendizado e evolução na área de tecnologia.*
+
