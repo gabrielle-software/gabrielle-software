@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # 👋 Hi, I'm Gabrielle Sousa!
 
 🎓 Software Engineering Student | Aspiring Software Developer
@@ -43,9 +49,11 @@ I'm especially interested in remote opportunities and continuous professional de
 - Programming best practices
 - Git and GitHub
 
+## 📫 Connect with Me
+
+- 💼 LinkedIn: [Gabrielle Sousa](https://www.linkedin.com/in/gabrielle-lima-895493323/)
+- 💻 GitHub: [gabrielle-software](https://github.com/gabrielle-software)
+
 ---
 
 ✨ *Always learning, building, and improving.*
-
-
-
