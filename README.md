@@ -1,27 +1,51 @@
-# Olá! 👋 Seja bem-vindo(a) ao meu perfil!
+# 👋 Hi, I'm Gabrielle Sousa!
 
-🎓 Estudante de Engenharia de Software, com interesse em desenvolvimento de software e tecnologia.
+🎓 Software Engineering Student | Aspiring Software Developer
 
-💻 Tenho desenvolvido projetos práticos para aprimorar meus conhecimentos em programação, lógica computacional e organização de código.
+I'm a Software Engineering student passionate about technology, programming, and software development.
 
-### 🚀 Tecnologias e ferramentas
+I'm continuously learning and improving my programming skills through practical projects and hands-on experience.
 
-* Python
-* Git e GitHub
-* JSON
-* Manipulação de arquivos com pathlib
+## 💻 Technologies & Tools
 
-### 📌 Projetos
+- Python
+- Git & GitHub
+- JSON
+- pathlib
+- File Management
+- Programming Logic
 
-* **Gerenciador de Tarefas em Python:** aplicação para cadastrar, listar, concluir e excluir tarefas, com persistência de dados em JSON.
+## 🚀 Featured Projects
 
-🔗 [Confira meus projetos no GitHub](https://github.com/gabrielle-software)
+### 📝 Python Task Manager
 
-### 🎯 Objetivo profissional
+A task management application developed with Python.
 
-Continuar desenvolvendo minhas habilidades técnicas, adquirir experiência prática e contribuir para projetos de desenvolvimento de software.
+**Features:**
+- Add new tasks
+- List registered tasks
+- Mark tasks as completed
+- Delete tasks
+- Store data using JSON
+
+**Technologies:** Python, JSON, pathlib.
+
+## 🎯 Career Goals
+
+I'm looking for opportunities to grow as a software developer, gain practical experience, collaborate with development teams, and contribute to meaningful technology projects.
+
+I'm especially interested in remote opportunities and continuous professional development.
+
+## 🌱 Currently Learning
+
+- Python development
+- Software engineering concepts
+- Programming best practices
+- Git and GitHub
 
 ---
 
-*Em constante aprendizado e evolução na área de tecnologia.*
+✨ *Always learning, building, and improving.*
+
+
 
