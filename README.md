@@ -52,3 +52,59 @@ Tenho interesse em desenvolvimento de software e aprendizado contínuo.
 ---
 
 ✨ Sempre aprendendo, construindo e evoluindo.
+
+
+---
+
+# 👋 Hello! I'm Gabrielle Sousa
+
+🎓 Third-semester Software Engineering student | Aspiring Software Developer
+
+I am a Software Engineering student passionate about technology, programming, and software development.
+
+I am constantly learning and improving my technical skills through studies and practical projects, building a solid foundation in software development.
+
+My goal is to gain an internship opportunity in Software Engineering, apply my knowledge in practice, and continue growing professionally in the technology field.
+
+## 💻 Technologies & Tools
+
+- Python
+- Git & GitHub
+- JSON
+- pathlib
+- File Management
+- Programming Logic
+
+## 🚀 Featured Projects
+
+### 📝 Python Task Manager
+
+A task management application developed with Python.
+
+**Features:**
+- Add new tasks
+- List registered tasks
+- Mark tasks as completed
+- Delete tasks
+- Store data using JSON
+
+**Technologies:** Python, JSON, and pathlib.
+
+[View project on GitHub](https://github.com/gabrielle-software/gerenciador-de-tarefas)
+
+## 🎯 Career Goals
+
+I am looking for Software Engineering internship opportunities where I can develop my skills, gain practical experience, collaborate with technology teams, and contribute to meaningful projects.
+
+## 🌱 Currently Learning
+
+- Python development
+- Software Engineering concepts
+- Programming best practices
+- Git and GitHub
+
+## 📫 Connect with Me
+
+- LinkedIn: [Gabrielle Sousa](https://www.linkedin.com/in/gabrielle-lima-895493323/)
+
+✨ Always learning, building, and growing.
