@@ -51,8 +51,6 @@ Busco oportunidades de estágio em Engenharia de Software para desenvolver minha
 
 ---
 
-# 🇺🇸 ENGLISH VERSION
-
 # 👋 Hello! I'm Gabrielle Sousa!
 
 🎓 Third-semester Software Engineering student | Aspiring Software Developer
