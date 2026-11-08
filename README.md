@@ -19,8 +19,8 @@ Meu objetivo é conquistar uma oportunidade de estágio em Engenharia de Softwar
 <h2>📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielle-software&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-software&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=gabrielle-software&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielle-software&layout=compact&theme=tokyonight" />
 </p>
 <h2>🚀 Projetos em Destaque</h2>
 
