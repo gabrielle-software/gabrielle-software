@@ -14,57 +14,54 @@ Meu objetivo é conquistar uma oportunidade de estágio em Engenharia de Softwar
 - Git e GitHub
 - JSON
 - pathlib
-- Gerenciamento de Arquivos
-- Lógica de Programação
+- Gerenciamento de arquivos
+- Lógica de programação
 
 ## 🚀 Projetos em Destaque
 
 ### 📝 Gerenciador de Tarefas em Python
 
-Aplicativo de gerenciamento de tarefas desenvolvido em Python.
+Aplicação de gerenciamento de tarefas desenvolvida com Python.
 
 **Funcionalidades:**
-- Adicionar novas tarefas
+- Adicionar tarefas
 - Listar tarefas cadastradas
 - Marcar tarefas como concluídas
 - Excluir tarefas
 - Armazenar dados utilizando JSON
 
-**Tecnologias:** Python, JSON e pathlib.
+**Tecnologias utilizadas:** Python, JSON e pathlib.
 
-## 🎯 Objetivos de Carreira
+[Visualizar projeto no GitHub](https://github.com/gabrielle-software/gerenciador-de-tarefas)
 
-Busco oportunidades de estágio em Engenharia de Software para desenvolver minhas habilidades, adquirir experiência prática, colaborar com equipes de tecnologia e contribuir para projetos relevantes.
+## 🎯 Objetivos Profissionais
 
-Tenho interesse em desenvolvimento de software e aprendizado contínuo.
+Busco oportunidades de estágio em Engenharia de Software para desenvolver minhas habilidades técnicas, adquirir experiência prática, colaborar com equipes de tecnologia e contribuir para projetos relevantes.
 
-## 🌱 Atualmente Aprendendo
+## 🌱 Atualmente Estudando
 
-- Desenvolvimento em Python
+- Desenvolvimento com Python
 - Conceitos de Engenharia de Software
 - Boas práticas de programação
 - Git e GitHub
 
-## 📫 Conecte-se comigo
+## 📫 Contato
 
-- 💼 LinkedIn: [Gabrielle Sousa](https://www.linkedin.com/in/gabrielle-lima-895493323/)
-
----
-
-✨ Sempre aprendendo, construindo e evoluindo.
-
+- LinkedIn: [Gabrielle Sousa](https://www.linkedin.com/in/gabrielle-lima-895493323/)
 
 ---
 
-# 👋 Hello! I'm Gabrielle Sousa
+# 🇺🇸 ENGLISH VERSION
+
+# 👋 Hello! I'm Gabrielle Sousa!
 
 🎓 Third-semester Software Engineering student | Aspiring Software Developer
 
 I am a Software Engineering student passionate about technology, programming, and software development.
 
-I am constantly learning and improving my technical skills through studies and practical projects, building a solid foundation in software development.
+I am constantly learning and improving my technical skills through academic studies and practical projects, building a solid foundation in software development.
 
-My goal is to gain an internship opportunity in Software Engineering, apply my knowledge in practice, and continue growing professionally in the technology field.
+My goal is to secure an internship opportunity in Software Engineering, apply my knowledge in practice, and continue growing professionally in the technology field.
 
 ## 💻 Technologies & Tools
 
@@ -94,7 +91,7 @@ A task management application developed with Python.
 
 ## 🎯 Career Goals
 
-I am looking for Software Engineering internship opportunities where I can develop my skills, gain practical experience, collaborate with technology teams, and contribute to meaningful projects.
+I am seeking Software Engineering internship opportunities where I can develop my technical skills, gain practical experience, collaborate with technology teams, and contribute to meaningful projects.
 
 ## 🌱 Currently Learning
 
@@ -103,7 +100,7 @@ I am looking for Software Engineering internship opportunities where I can devel
 - Programming best practices
 - Git and GitHub
 
-## 📫 Connect with Me
+## 📫 Contact
 
 - LinkedIn: [Gabrielle Sousa](https://www.linkedin.com/in/gabrielle-lima-895493323/)
 
