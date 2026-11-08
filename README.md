@@ -16,7 +16,16 @@ Meu objetivo é conquistar uma oportunidade de estágio em Engenharia de Softwar
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
+## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielle-software&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-software&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielle-software&theme=tokyo-night" />
+</p>
 ## 🚀 Projetos em Destaque
 
 ### 📝 Gerenciador de Tarefas em Python
