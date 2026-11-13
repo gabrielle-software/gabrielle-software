@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou Gabrielle Sousa!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrielle-software/gabrielle-software/main/Banner%20de%20Portf%C3%B3lio%20em%20Tecnologia%20Neon.png" width="100%" alt="Banner de Francisca Gabrielle">
+</p># 👋 Olá, eu sou Gabrielle Sousa!
 
 🎓 Estudante do 3º semestre de Engenharia de Software | Aspirante a Desenvolvedora de Software
 
