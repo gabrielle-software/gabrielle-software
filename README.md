@@ -1,112 +1,107 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielle-software/gabrielle-software/main/Banner%20de%20Portf%C3%B3lio%20em%20Tecnologia%20Neon.png" width="100%" alt="Banner de Francisca Gabrielle">
-</p># 👋 Olá, eu sou Gabrielle Sousa!
+  <img src="https://raw.githubusercontent.com/gabrielle-software/gabrielle-software/main/Banner%20de%20Portf%C3%B3lio%20em%20Tecnologia%20Neon.png" width="100%" alt="Banner de portfólio em tecnologia de Gabrielle Sousa">
+</p>
 
-🎓 Estudante do 3º semestre de Engenharia de Software | Aspirante a Desenvolvedora de Software
+# Olá, eu sou Gabrielle Sousa! 👋
 
-Sou estudante de Engenharia de Software, apaixonada por tecnologia, programação e desenvolvimento de soluções.
+🎓 **Estudante do 3º semestre de Engenharia de Software | Em busca de estágio em Desenvolvimento de Software**
 
-Estou em constante aprendizado, desenvolvendo minhas habilidades técnicas por meio de estudos e projetos práticos, buscando construir uma base sólida em desenvolvimento de software.
+Sou estudante de Engenharia de Software, interessada em tecnologia, programação e desenvolvimento de soluções. Venho construindo minha base técnica por meio dos estudos e de projetos práticos, com foco em desenvolver código organizado, compreender boas práticas e evoluir continuamente.
 
-Meu objetivo é conquistar uma oportunidade de estágio em Engenharia de Software, aplicar meus conhecimentos na prática e evoluir profissionalmente na área de tecnologia.
+Meu objetivo é conquistar uma oportunidade de estágio em Engenharia de Software, aplicar meus conhecimentos em um ambiente profissional, aprender com outros desenvolvedores e contribuir com projetos reais.
 
-## 💻 Tecnologias e Ferramentas
+## 💻 Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </p>
-<h2>📊 Estatísticas do GitHub</h2>
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=gabrielle-software&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielle-software&layout=compact&theme=tokyonight" />
-</p>
-<h2>🚀 Projetos em Destaque</h2>
+**Também pratico:** lógica de programação, manipulação de arquivos com `pathlib`, testes automatizados com `unittest` e organização de projetos.
 
-### 📝 Gerenciador de Tarefas em Python
+## 🚀 Projeto em destaque
 
-Aplicação de gerenciamento de tarefas desenvolvida com Python.
+### 📝 [Gerenciador de Tarefas em Python](https://github.com/gabrielle-software/gerenciador-de-tarefas)
 
-**Funcionalidades:**
-- Adicionar tarefas
-- Listar tarefas cadastradas
-- Marcar tarefas como concluídas
-- Excluir tarefas
-- Armazenar dados utilizando JSON
+Aplicação de linha de comando desenvolvida para praticar lógica de programação, persistência de dados e testes automatizados.
 
-**Tecnologias utilizadas:** Python, JSON e pathlib.
+- Cadastro, listagem, conclusão e exclusão de tarefas.
+- Armazenamento de dados em arquivo JSON.
+- Organização de caminhos e arquivos com `pathlib`.
+- **7 testes automatizados** com `unittest`.
+- Integração contínua com GitHub Actions para executar os testes.
 
-[Visualizar projeto no GitHub](https://github.com/gabrielle-software/gerenciador-de-tarefas)
+**Tecnologias:** Python, JSON, pathlib, unittest e GitHub Actions.
 
-## 🎯 Objetivos Profissionais
+## 📚 Atualmente estudando
 
-Busco oportunidades de estágio em Engenharia de Software para desenvolver minhas habilidades técnicas, adquirir experiência prática, colaborar com equipes de tecnologia e contribuir para projetos relevantes.
+- Desenvolvimento com Python.
+- Fundamentos de Engenharia de Software.
+- Lógica de programação e boas práticas.
+- Testes automatizados.
+- Git e GitHub.
 
-## 🌱 Atualmente Estudando
+## 🎯 Objetivo profissional
 
-- Desenvolvimento com Python
-- Conceitos de Engenharia de Software
-- Boas práticas de programação
-- Git e GitHub
+Busco uma oportunidade de estágio em Engenharia de Software ou Desenvolvimento de Software para ampliar minha experiência prática, colaborar com equipes e continuar desenvolvendo minhas habilidades técnicas.
 
 ## 📫 Contato
 
-- LinkedIn: [Gabrielle Sousa](https://www.linkedin.com/in/gabrielle-lima-895493323/)
+- **LinkedIn:** [Gabrielle Sousa](https://www.linkedin.com/in/gabrielle-lima-895493323/)
 
 ---
 
-# 👋 Hello! I'm Gabrielle Sousa!
+# Hello, I'm Gabrielle Sousa! 👋
 
-🎓 Third-semester Software Engineering student | Aspiring Software Developer
+🎓 **Third-semester Software Engineering student | Seeking a Software Development internship**
 
-I am a Software Engineering student passionate about technology, programming, and software development.
+I am a Software Engineering student interested in technology, programming, and building software solutions. I am developing my technical foundation through academic studies and hands-on projects, focusing on writing organized code, learning good practices, and continuously improving my skills.
 
-I am constantly learning and improving my technical skills through academic studies and practical projects, building a solid foundation in software development.
-
-My goal is to secure an internship opportunity in Software Engineering, apply my knowledge in practice, and continue growing professionally in the technology field.
+My goal is to obtain a Software Engineering internship where I can apply my knowledge, learn from experienced developers, and contribute to real-world projects.
 
 ## 💻 Technologies & Tools
 
-- Python
-- Git & GitHub
-- JSON
-- pathlib
-- File Management
-- Programming Logic
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+</p>
 
-## 🚀 Featured Projects
+**Additional practice:** programming logic, file handling with `pathlib`, automated testing with `unittest`, and project organization.
 
-### 📝 Python Task Manager
+## 🚀 Featured Project
 
-A task management application developed with Python.
+### 📝 [Python Task Manager](https://github.com/gabrielle-software/gerenciador-de-tarefas)
 
-**Features:**
-- Add new tasks
-- List registered tasks
-- Mark tasks as completed
-- Delete tasks
-- Store data using JSON
+A command-line application built to practice programming logic, data persistence, and automated testing.
 
-**Technologies:** Python, JSON, and pathlib.
+- Create, list, complete, and delete tasks.
+- Store task data in a JSON file.
+- Handle file paths with `pathlib`.
+- Includes **7 automated tests** using `unittest`.
+- Uses GitHub Actions to run tests automatically.
 
-[View project on GitHub](https://github.com/gabrielle-software/gerenciador-de-tarefas)
+**Technologies:** Python, JSON, pathlib, unittest, and GitHub Actions.
 
-## 🎯 Career Goals
+## 📚 Currently Learning
 
-I am seeking Software Engineering internship opportunities where I can develop my technical skills, gain practical experience, collaborate with technology teams, and contribute to meaningful projects.
+- Python development.
+- Software Engineering fundamentals.
+- Programming logic and best practices.
+- Automated testing.
+- Git and GitHub.
 
-## 🌱 Currently Learning
+## 🎯 Career Goal
 
-- Python development
-- Software Engineering concepts
-- Programming best practices
-- Git and GitHub
+I am seeking a Software Engineering or Software Development internship where I can gain practical experience, collaborate with a team, and continue strengthening my technical skills.
 
 ## 📫 Contact
 
-- LinkedIn: [Gabrielle Sousa](https://www.linkedin.com/in/gabrielle-lima-895493323/)
+- **LinkedIn:** [Gabrielle Sousa](https://www.linkedin.com/in/gabrielle-lima-895493323/)
 
-✨ Always learning, building, and growing.
+---
+
+✨ *Sempre aprendendo, praticando e evoluindo.* | *Always learning, practicing, and growing.*
