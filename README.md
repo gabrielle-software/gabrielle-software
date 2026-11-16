@@ -59,7 +59,7 @@ Projeto em Python para gerenciamento de clientes com armazenamento de informaç�
 
 - Cadastro e gerenciamento de dados de clientes.
 - Persistência de informações em arquivo JSON.
-- **21 testes automatizados** com `unittest`.
+- **28 testes automatizados** com `unittest`.
 - Verificação automatizada com GitHub Actions.
 
 **Tecnologias:** Python, JSON, unittest e GitHub Actions.
@@ -152,7 +152,7 @@ A Python project for customer management with JSON-based data storage.
 
 - Register and manage customer data.
 - Persist information in a JSON file.
-- **21 automated tests** using `unittest`.
+- **28 automated tests** using `unittest`.
 - Automated checks with GitHub Actions.
 
 **Technologies:** Python, JSON, unittest, and GitHub Actions.
