@@ -6,7 +6,7 @@
 
 🎓 **Estudante do 3º semestre de Engenharia de Software | Em busca de estágio em Desenvolvimento de Software**
 
-Sou estudante de Engenharia de Software e desenvolvo minha experiência prática por meio de projetos em Python. Tenho interesse em desenvolvimento de software, organização de código, persistência de dados e qualidade por meio de testes automatizados.
+Sou estudante de Engenharia de Software e desenvolvo minha experiência prática por meio de projetos em Python e tecnologias web. Tenho interesse em desenvolvimento de software, interfaces responsivas, organização de código, persistência de dados e qualidade por meio de testes automatizados.
 
 Meu objetivo é conquistar uma oportunidade de estágio em Engenharia de Software ou Desenvolvimento de Software, aplicar meus conhecimentos em um ambiente profissional e continuar evoluindo com uma equipe.
 
@@ -18,6 +18,9 @@ Meu objetivo é conquistar uma oportunidade de estágio em Engenharia de Softwar
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 **Também pratico:** lógica de programação, manipulação de arquivos com `pathlib`, persistência de dados, consultas SQL, tratamento de valores monetários com `Decimal`, testes com `unittest` e integração contínua com GitHub Actions.
@@ -61,10 +64,25 @@ Projeto em Python para gerenciamento de clientes com armazenamento de informaç�
 
 **Tecnologias:** Python, JSON, unittest e GitHub Actions.
 
+### 4. [StudyFlow — Painel de Organização de Estudos](https://github.com/gabrielle-software/painel-organizacao-estudos)
+
+Painel web responsivo para organizar tarefas acadêmicas, acompanhar prazos e visualizar o progresso dos estudos.
+
+- Cadastro, edição e exclusão de tarefas por matéria, prazo e prioridade.
+- Marcação de tarefas concluídas e filtros por matéria e status.
+- Busca por nome da tarefa ou matéria.
+- Indicadores de tarefas totais, pendentes, concluídas e percentual de progresso.
+- Salvamento local com `localStorage`.
+- Layout adaptável para celular, tablet e computador.
+- Verificação de sintaxe JavaScript e arquivos essenciais com GitHub Actions.
+
+**Tecnologias:** HTML5, CSS3, JavaScript (ES6+) e Web Storage API.
+
 ## 📚 Atualmente estudando
 
 - Desenvolvimento de software com Python.
 - Fundamentos de Engenharia de Software.
+- Desenvolvimento web com HTML5, CSS3 e JavaScript.
 - Estruturas de dados e lógica de programação.
 - Banco de dados e SQL.
 - Testes automatizados e integração contínua.
@@ -84,7 +102,7 @@ Busco uma oportunidade de estágio em Engenharia de Software ou Desenvolvimento 
 
 🎓 **Third-semester Software Engineering student | Seeking a Software Development internship**
 
-I am a Software Engineering student building hands-on experience through Python projects. I am interested in software development, code organization, data persistence, and software quality through automated testing.
+I am a Software Engineering student building hands-on experience through Python and web development projects. I am interested in software development, responsive interfaces, code organization, data persistence, and software quality through automated testing.
 
 My goal is to obtain a Software Engineering or Software Development internship where I can apply my knowledge, learn from a team, and continue developing my technical skills.
 
@@ -139,10 +157,25 @@ A Python project for customer management with JSON-based data storage.
 
 **Technologies:** Python, JSON, unittest, and GitHub Actions.
 
+### 4. [StudyFlow — Study Organization Dashboard](https://github.com/gabrielle-software/painel-organizacao-estudos)
+
+A responsive web dashboard for organizing academic tasks, tracking due dates, and monitoring study progress.
+
+- Create, edit, and delete tasks by subject, due date, and priority.
+- Mark tasks as completed and filter by subject or status.
+- Search by task title or subject.
+- Track total, pending, completed tasks, and overall progress.
+- Save data locally with `localStorage`.
+- Responsive layout for mobile, tablet, and desktop.
+- JavaScript syntax and essential-file checks with GitHub Actions.
+
+**Technologies:** HTML5, CSS3, JavaScript (ES6+), and the Web Storage API.
+
 ## 📚 Currently Learning
 
 - Python software development.
 - Software Engineering fundamentals.
+- Web development with HTML5, CSS3, and JavaScript.
 - Data structures and programming logic.
 - Databases and SQL.
 - Automated testing and continuous integration.
